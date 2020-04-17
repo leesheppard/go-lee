@@ -1,0 +1,4 @@
+baseURL = "http://go.sheppard.io/"
+languageCode = "en-us"
+title = "Go - Lee Sheppard"
+theme = "go_lee_theme"

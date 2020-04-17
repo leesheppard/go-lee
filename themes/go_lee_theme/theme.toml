@@ -1,0 +1,12 @@
+name = "go_lee_theme"
+license = "MIT"
+licenselink = "https://github.com/leesheppard/go_lee_theme/blob/master/LICENSE"
+description = ""
+homepage = "https://go.sheppard.io/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Lee Sheppard"
+  homepage = "https://lee.sheppard.io"
